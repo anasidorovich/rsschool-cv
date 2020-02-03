@@ -48,7 +48,6 @@ _DigiTech7_
 [http://www.digitech7.by/en/](http://www.digitech7.by/en/)
 
 
-
 April 2019 – till now
 
 Minsk, Belarus
@@ -91,17 +90,17 @@ Gomel, Belarus
 
 **Responsibilities:**
 
-- --Design and development of AEM specific assets like templates, components, dialogs, widgets, workflows;
-- --New features evaluation and implementation;
-- --Analysis of business and technical requirements;
-- --Release management - content and releases deployment;
-- --Document knowledge and best practices usage;
-- --Production and test environment installation and configuration;
-- --Troubleshooting and performance tuning, thread dump and log analysis;
-- --Performance optimization;
-- --Unit test writing;
-- --Code review;
-- --Estimations creation.
+- Design and development of AEM specific assets like templates, components, dialogs, widgets, workflows;
+- New features evaluation and implementation;
+- Analysis of business and technical requirements;
+- Release management - content and releases deployment;
+- Document knowledge and best practices usage;
+- Production and test environment installation and configuration;
+- Troubleshooting and performance tuning, thread dump and log analysis;
+- Performance optimization;
+- Unit test writing;
+- Code review;
+- Estimations creation.
 
 **Java/J2EE/Spring/Hibernate/Restful Web service - Developer**
 
@@ -114,13 +113,11 @@ August 2012 — September 2014
 Gomel, Belarus
 
 - Took part in the development of end-to-end solution for e-commerce:
-
-wrote protocols for communication with different external systems (Fraud Analyzer, merchants, acquirers)
-
-- --wrote integration modules according to payment schemas;
-- --worked on performance improvement (wrote cache functionality for entities);
-- --implemented multithreading functionality;
-- --wrote setting tools for configuring payment process, monitoring tool that displays payment related transactions sent from client side;
+ 1. wrote protocols for communication with different external systems (Fraud Analyzer, merchants, acquirers)
+ 2. wrote integration modules according to payment schemas;
+ 3. worked on performance improvement (wrote cache functionality for entities);
+ 4. implemented multithreading functionality;
+ 5. wrote setting tools for configuring payment process, monitoring tool that displays payment related transactions sent from client side;
 
 - Was involved in the application support.
 - Performed unit tests of solutions.
