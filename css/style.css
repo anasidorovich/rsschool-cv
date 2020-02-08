@@ -16,22 +16,24 @@ body {
 }
 
 h3 {
-  margin: 20px 0 0;
+  margin: 20px 0 20px;
 
   text-align: center;
 }
 
 img {
   display: block;
+  float: left;
+  margin: 0 40px;
 }
 
-section {
+main {
   max-width: 1024px;
   margin: 0 auto;
 }
 
 table {
-  margin: 20px;
+  margin: 0 40px;
 
   border-collapse: collapse;
 }
@@ -42,19 +44,36 @@ th {
   border: 1px solid black;
 }
 
-td {
-  padding: 5px 10px;
+.contact-section table,
+.contact-section td,
+.contact-section th,
+.summary-section table,
+.summary-section td,
+.summary-section th {
+  border: none;
 }
 
-td.centered {
-  text-align: center;
+section > div,
+section > h4 {
+  margin: 20px 40px;
+}
+
+td {
+  padding: 5px 10px;
 }
 
 li {
   margin: 0 20px 0;
 }
 
-ul {
+table ul {
   margin: 0 5px 0;
   padding: 0;
+}
+
+.clearfix::after {
+  content: "";
+
+  display: table;
+  clear: both;
 }
